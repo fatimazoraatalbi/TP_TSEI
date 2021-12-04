@@ -4,6 +4,8 @@
 #include <exercice2.h>
 #include <exercice3.h>
 #include <exercice4.h>
+#include <exercice5part2.h>
+#include <exercice5part1.h>
 #include <exercice5.h>
 #include <exercice6.h>
 #include <exercice7.h>
